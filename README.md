@@ -1,2 +1,3 @@
 # repo-prueba
-Proyecto de prueba para enseñar git en github con VSCODE
+
+Hola Como estan, si quieren contratarme contactarme al gucompi@jmail.com 
